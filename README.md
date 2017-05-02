@@ -2,7 +2,9 @@
 
 ### Members of the group
 
-Aaron B.
-Andrew 
-Ryan K.
-Wesley C.
+* Aaron B.
+* Andrew M. 
+* Ryan K.
+* Wesley C.
+
+
